@@ -10,7 +10,7 @@
   gap: 30px;
   margin-top: auto;
   flex: 1;
-  height: 100lvh;
+  height: 100svh;
   background-color: blueviolet;
 }
 
@@ -19,6 +19,6 @@
   margin-top: auto;
 }
 
-.hero h1{
+.hero h1 {
   margin-top: auto;
 }
